@@ -1,22 +1,19 @@
-// please update required information
 const siteMetadata = {
-    title: 'Next.js Blog With Tailwind CSS and Contentlayer',
-    author: 'CodeBucks',
-    headerTitle: 'Next.js Blog',
-    description: 'A blog created with Next.js, Tailwind.css and contentlayer.',
-    language: 'en-us',
-    theme: 'system', // system, dark or light
-    siteUrl: 'https://create-blog-with-nextjs.vercel.app', // your website URL
-    siteLogo: '/logo.png',
-    socialBanner: '/social-banner.png', // add social banner in the public folder
-    email: 'codebucks27@gmail.com', 
-    github: 'https://github.com/codebucks27',
-    twitter: 'https://twitter.com/code_bucks',
-    facebook: 'https://facebook.com',
-    youtube: 'https://youtube.com/codebucks',
-    linkedin: 'https://www.linkedin.com/in/codebucks/',
-    dribbble: 'https://www.dribbble.com',
-    locale: 'en-US',
-  }
-  
-  module.exports = siteMetadata
+  title: "The Blooming Techie Digest",
+  author: "Borguuh",
+  headerTitle: "Cultivating Tech Growth, One Byte at a Time",
+  description:
+    'Your go-to resource for leveling up your tech skills! Get in-depth articles, news, insights, and resources from experts in the field. Stay current, expand your skillset, and connect with like-minded professionals. Subscribe, follow, contribute, and join our community to grow your career and avoid the "tech-ential" crisis!',
+  language: "en-us",
+  theme: "system", // system, dark or light
+  siteUrl: "https://www.abdrahmanadewale.live/", // your website URL
+  siteLogo: "/logo.png",
+  socialBanner: "/social-banner.png", // add social banner in the public folder
+  email: "abdrahmanadewale@gmail.com",
+  github: "https://github.com/borguuh",
+  twitter: "https://twitter.com/blooming_techie",
+  linkedin: "https://linkedin.com/in/azeez-abdulrahman",
+  locale: "en-US",
+};
+
+module.exports = siteMetadata;
